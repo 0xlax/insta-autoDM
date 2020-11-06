@@ -12,7 +12,7 @@ x = 0
 def dmer():
     global x
 
-    usrnames = ['usernaame1', 'username2']  # add user names here
+    usrnames = ['username1', 'username2']  # add user names here
 
     chrome_options = Options()
     chrome_options.add_experimental_option("detach", True)
