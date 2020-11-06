@@ -2,12 +2,12 @@
 Send scheduled DMs on Instagram
 
 # Requirements
-Python(added to apth)
+Python (added to path)
 The Requests Library for python : `pip install requests`
 Selenium 
 
 ``` bash
-pip install seleniu
+pip install selenium
 ```
 
 Schedule
