@@ -15,7 +15,7 @@ Send scheduled DMs on Instagram
 
 4) `txt_box.send_keys(f"Hi @{usrnames} ! What's up ?")  # Messege that you want to send` 
 
-5) `usrnames = ['b31ngdev', 'b31ngd3v']  # username whom you will send the message`
+5) `usrnames = ['username1', 'username2']  # username whom you will send the message`
 
 
 Ensure that you have Chrome installed and the
