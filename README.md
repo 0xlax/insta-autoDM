@@ -12,9 +12,9 @@
 
 2) `password = 'PASSWORD'  # Enter your password here` 
 
-3) `timee = "21:44"  # Specific Time When The message will be send` 
+3) `scheduledtime = "00:07:00"  # Specific Time (in 00:00:00 format) When The message will be send` 
 
-4) `txt_box.send_keys(f"Hi @{usrnames} ! What's up ?")  # Messege that you want to send` 
+4) `textbox.send_keys(f"Hi @{usrnames} ! What's up ?")  # Messege that you want to send` 
 
 5) `usrnames = ['username1', 'username2']  # username whom you will send the message`
 
