@@ -1,5 +1,6 @@
 # Insta-autoDM
-Send scheduled DMs on Instagram
+
+<a href="https://www.instagram.com/harshithlaxman/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Instagram_logo.svg/1200px-Instagram_logo.svg.png" alt="Auto DMer"/></a>
 
 
 
