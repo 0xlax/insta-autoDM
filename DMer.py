@@ -27,8 +27,8 @@ def dmer():
         '//*[@id="loginForm"]/div/div[1]/div/label/input')
     passwrd_bar = browser.find_element_by_xpath(
         '//*[@id="loginForm"]/div/div[2]/div/label/input')
-    username = 'username'  # Enter your username here
-    password = 'password'  # Enter your password here
+    username = 'USERNAME'  # Enter your username here
+    password = 'PASSWORD'  # Enter your password here
 
     usrname_bar.send_keys(username)
     passwrd_bar.send_keys(password + Keys.ENTER)
