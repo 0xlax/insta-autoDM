@@ -115,7 +115,7 @@ def dmer():
    
         reference github: b3!ngD3v )
 
-         folow me on Instagram: @harshithlaxman
+         follow me on Instagram: @harshithlaxman
         Github: harshithlaxman
 
         <3 <3 <3
